@@ -1,0 +1,3 @@
+com\example\demo\BookManagerApplication.class
+com\example\demo\model\Book.class
+com\example\demo\controller\BookController.class
